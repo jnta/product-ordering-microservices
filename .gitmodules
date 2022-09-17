@@ -1,0 +1,15 @@
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:jnta/product-service.git
+[submodule "order-service"]
+	path = order-service
+	url = git@github.com:jnta/order-service.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = git@github.com:jnta/inventory-service.git
+[submodule "ms-api-gateway"]
+	path = ms-api-gateway
+	url = git@github.com:jnta/ms-api-gateway.git
+[submodule "ms-discovery-server"]
+	path = ms-discovery-server
+	url = git@github.com:jnta/ms-discovery-server.git
